@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm new to the world of GitHub and its many branches, but I'm always willing to learn! 
+
+Favorite languages:
+- HTML/CSS/Javascript
+- C++
+
+Learning with help from [GitHub Docs](https://docs.github.com/) and [GitHub Skills](https://skills.github.com/). Both are **extremely** helpful tools and full of content!
+
 <!--
 **Drummingcoder/Drummingcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
