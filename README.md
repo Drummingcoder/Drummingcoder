@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm new to the world of GitHub and its many branches, but I'm always willing to learn! 
+I'm a newbie. 
+<!-- Add purposes (to show that I'm learning) -->
 
-Favorite languages:
+My Languages so far:
 - HTML/CSS/Javascript
 - C++
 
